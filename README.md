@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to Learn with other Vue Learners
 
-- 🥅 2021 Goals: Efficient with Vue and Node JS
+- 🥅 2021 Goals: Efficient with VueJS and NodeJS
 
 - ⚡ Fun fact: I love to watch MHA 😁
 

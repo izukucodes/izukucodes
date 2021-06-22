@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Izuku Midoriya</h1>
-<h3 align="center">A Passionate Front-end Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izukucodes&label=Profile%20views&color=0e75b6&style=flat" alt="izukucodes" /> </p>
 
